@@ -7,21 +7,41 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thiago-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <!-- ML --> 
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
+  
+  <img align="center" alt="Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
+  
+  <img align="center" alt="Tensorflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+  
+  <!-- MLOPS --> 
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  
+  <img align="center" alt="Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-plain.svg">
+  
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  
+  
+  <!-- WEB --> 
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Thiago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Thiago-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <!-- Database --> 
   
   <img align="center" alt="Thiago-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Thiago-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius:100px;" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif">
-</div>
+  <img align="center" alt="Thiago-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   
   ##
  
